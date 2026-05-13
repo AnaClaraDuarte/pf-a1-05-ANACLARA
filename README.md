@@ -8,4 +8,4 @@ STATUS: Operando com novas rotas para a Europa
 STATUS: Alerta! Erro crítico de overflow corrigido no painel
 >>>>>>> main
 
-Regra: 23kg por passageiro
+Regra: 23kg por passageiro (Válida para voos domésticos)
